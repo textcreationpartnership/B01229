@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentable fall of Queene Elnor, who for her pride and wickednesse by Gods iudgement, sunke into the ground at Charing crosse, and rose up at Queene hive. To the tune of Gentle and courteous.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1629?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01229</idno>
+            <idno type="STC">STC 7565.6</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[225]</idno>
+            <idno type="EEBO-CITATION">99884344</idno>
+            <idno type="PROQUEST">ocm99884344</idno>
+            <idno type="VID">183038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183038)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[121])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentable fall of Queene Elnor, who for her pride and wickednesse by Gods iudgement, sunke into the ground at Charing crosse, and rose up at Queene hive. To the tune of Gentle and courteous.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "VVhen Edward was in England ..."</note>
+                  <note>Place and date of publication suggested by STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eleanor, --  Queen, consort of Edward I, King of England, d. 1290 --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="225" facs="tcp:183038:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>The lamentable fall of Queene <hi>Elnor,</hi> who for her pride and wickedneſſe by Gods iudgements, ſunke in<g ref="char:EOLhyphen"/>to the ground at Charing croſſe, and roſe vp againe at Queene Hive.</head>
+            <opener>To the tune of Gentle and Courteous.</opener>
+            <lg>
+               <l>VVhen <hi>Edward</hi> was in <hi>England</hi> king</l>
+               <l>the firſt of all that name:</l>
+               <l>Proud <hi>Elnor</hi> he made his <hi>Queene,</hi>
+               </l>
+               <l>a ſtately Spaniſh Dame,</l>
+               <l>Whoſe wicked life and ſinfull pride,</l>
+               <l>through <hi>England</hi> did excell:</l>
+               <l>To dainty Dames and gallant Maides,</l>
+               <l>this Queene was knowne full well.</l>
+            </lg>
+            <lg>
+               <l>She was the firſt that did inuent</l>
+               <l>in Coaches braue to ride,</l>
+               <l>She was the firſt that brought this land</l>
+               <l>the deadly ſinne of pride.</l>
+               <l>No Engliſh Taylor here could ſerue</l>
+               <l>to make her rich attyre:</l>
+               <l>But ſent for Taylors into Spaine,</l>
+               <l>to feed her vaine deſire.</l>
+            </lg>
+            <lg>
+               <l>They brought in faſhions ſtrange and new</l>
+               <l>with golden garments bright:</l>
+               <l>The farthingale, and mighty cuffes,</l>
+               <l>with gownes of rare delight</l>
+               <l>Our London dames is Spamiſh pride,</l>
+               <l>did floriſh every where,</l>
+               <l>Our Engliſh men like women then,</l>
+               <l>did weare long locks of haire.</l>
+            </lg>
+            <lg>
+               <l>Both man and childe, both maid &amp; wife,</l>
+               <l>were drown'd in Pride if Spaine,</l>
+               <l>And though the Spaniſh Tailors then</l>
+               <l>our Engliſh men did ſtaine:</l>
+               <l>Whereat the Queene did much deſpite</l>
+               <l>to ſee our Engliſh men.</l>
+               <l>In veſtuees clad, as braue to ſee,</l>
+               <l>as any Spaniard then.</l>
+            </lg>
+            <lg>
+               <l>She craud the King that every man,</l>
+               <l>that wore long locks of haire,</l>
+               <l>Might then be cut and powled all,</l>
+               <l>or ſhaven very neare.</l>
+               <l>Whereat the King did ſeem content,</l>
+               <l>and ſoon thereto agreed,</l>
+               <l>And firſt commanded that his owne</l>
+               <l>ſhould then be cut with ſpeed,</l>
+            </lg>
+            <lg>
+               <l>And after that to pleaſe his Queene,</l>
+               <l>proclaimed through the land,</l>
+               <l>That euerie man that wore long haire,</l>
+               <l>ſhould powle him out of hand.</l>
+               <l>But yet this Spaniard not content,</l>
+               <l>to women bore a ſpight:</l>
+               <l>And then requeſted of the King,</l>
+               <l>againſt all law and right.</l>
+            </lg>
+            <lg>
+               <l>That everie womankinde ſhould have</l>
+               <l>her right breaſt cut away:</l>
+               <l>And then with burning Irons ſear'd,</l>
+               <l>the blood to ſtench and ſtay,</l>
+               <l>King <hi>Edward</hi> then perceiuing wel,</l>
+               <l>her ſpight to women kinde:</l>
+               <l>Deviſed ſoon by policy,</l>
+               <l>to turne her bloudie minde.</l>
+            </lg>
+            <lg>
+               <l>He ſent for burning Irons ſtraight,</l>
+               <l>all ſparking hot to ſee:</l>
+               <l>And ſaid, O Queene come on thy way,</l>
+               <l>I will begin with thee.</l>
+               <l>Which words did much diſpleaſe the Queen</l>
+               <l>that penance to begin,</l>
+               <l>But askt him pardon on her knees,</l>
+               <l>who gaue her grace therein.</l>
+            </lg>
+            <lg>
+               <l>But afterward ſhe chanſt to paſſe</l>
+               <l>along braue London ſtreets,</l>
+               <l>Whereas the Maior of Londonds wife,</l>
+               <l>in ſtately ſort ſhe meetes.</l>
+               <l>With muſicke, mirth and melody</l>
+               <l>unto the Church that went,</l>
+               <l>To give God thanks, that to Lo. Maior</l>
+               <l>a noble Sonne had ſent.</l>
+            </lg>
+            <lg>
+               <l>It grieued much this ſpightful Queen,</l>
+               <l>to ſee that any one,</l>
+               <l>Should ſo exceed in mirth and ioy,</l>
+               <l>except her ſelfe alone:</l>
+               <l>For which ſhe after did deuiſe.</l>
+               <l>within her bloudy minde,</l>
+               <l>And practiſd ſtill moſt ſecretly,</l>
+               <l>to kill that Ladie kinde.</l>
+            </lg>
+            <lg>
+               <l>Vnto Lord Maior of London then,</l>
+               <l>ſhe ſent he Letters ſtraight,</l>
+               <l>To ſend his Lady to the Court,</l>
+               <l>vpon her Grace to wait:</l>
+               <l>But when the London Lady came</l>
+               <l>before proud <hi>Elnors</hi> face,</l>
+               <l>She ſtript her from her rich array,</l>
+               <l>and kept her vile and baſe,</l>
+            </lg>
+            <lg>
+               <l>She ſent her into wales with ſpeed,</l>
+               <l>and kept her ſecret there,</l>
+               <l>And uſed her ſtill more cruelly,</l>
+               <l>then euer man did heare:</l>
+               <l>She made her waſh ſhe made her ſtarch</l>
+               <l>ſhe made her drudge alway:</l>
+               <l>She made her nurſe up children ſmall,</l>
+               <l>and labour night and day.</l>
+            </lg>
+            <lg>
+               <l>But this contented not the Queen,</l>
+               <l>but ſhew'd her more deſpight:</l>
+               <l>She bound this Lady to a poſt:</l>
+               <l>at twelve a clocke at night,</l>
+               <l>And as (poore Lady) ſhe ſtood bound,</l>
+               <l>the Queene in angry mood,</l>
+               <l>Did ſet two ſnakes unto her breaſt,</l>
+               <l>that ſuckt away her blood.</l>
+            </lg>
+            <lg>
+               <l>Thus died the Maior of Londons wife,</l>
+               <l>moſt greeuous for to heare:</l>
+               <l>Which made the Spaniard grow more proud,</l>
+               <l>as after ſhall appeare.</l>
+               <l>The wheat that dayly made her bread</l>
+               <l>was bolted twentie times,</l>
+               <l>The food that fed this ſtately Dame,</l>
+               <l>was boild in coſtly wines.</l>
+            </lg>
+            <lg>
+               <l>The water that did ſpring from ground</l>
+               <l>ſhe would not touch at all,</l>
+               <l>But waſht her hands with dew of heaven</l>
+               <l>that on ſweete Roſes fall,</l>
+               <l>She bathd her body manie a time,</l>
+               <l>in fountaines filled with milke,</l>
+               <l>And every day did change attire,</l>
+               <l>in coſtly <hi>Median</hi> ſilke.</l>
+            </lg>
+            <lg>
+               <l>But comming then to London backe,</l>
+               <l>within her coach of gold,</l>
+               <l>A tempeſt ſtrange within the ſkies,</l>
+               <l>this Queene did there behold:</l>
+               <l>Out of which ſtorme ſhe could not goe,</l>
+               <l>but their remaind a ſpace,</l>
+               <l>Foure horſes could not ſtirre her Coach</l>
+               <l>a foot out of that place.</l>
+            </lg>
+            <lg>
+               <l>A iudgement ſurely ſent from heaven,</l>
+               <l>for ſhedding guiltleſſe bloud,</l>
+               <l>Vpon this ſinfull Queene, that ſlew</l>
+               <l>the London Lady good.</l>
+               <l>King Edward then (as wiſedome wild)</l>
+               <l>accuſ'd her for that deede:</l>
+               <l>But ſhe denied, and wiſht that God</l>
+               <l>would ſend his wrath with ſpeed,</l>
+            </lg>
+            <lg>
+               <l>If that upon ſo vile a thing</l>
+               <l>her heart did ever thinke,</l>
+               <l>She wiſht the ground might open wide,</l>
+               <l>and therein ſhe might ſinke:</l>
+               <l>With that at Charing-Croſſe ſhe ſunke,</l>
+               <l>into the ground aliue,</l>
+               <l>And after roſe with life again,</l>
+               <l>in London at Queene-Hiue.</l>
+            </lg>
+            <lg>
+               <l>Where after that ſhe languiſht ſore,</l>
+               <l>full twentie daies in paine:</l>
+               <l>At laſt confeſt, the Ladies blood</l>
+               <l>her guilty hands did ſtaine:</l>
+               <l>And likewiſe how that by a Frier</l>
+               <l>ſhe had a baſe borne childe,</l>
+               <l>Whoſe ſinful luſt and wickedneſſe,</l>
+               <l>her marriage bed defilde.</l>
+            </lg>
+            <lg>
+               <l>Thus you haue heard the fall of pride,</l>
+               <l>a iuſt reward of ſinne:</l>
+               <l>For thoſe that will forſweare the<g ref="char:cmbAbbrStroke">̄</g>ſelues</l>
+               <l>Gods vengeance daily winne,</l>
+               <l>Beware of pride ye London Dames,</l>
+               <l>both Wiues and Maidens all,</l>
+               <l>Beare this imprinted in your minde,</l>
+               <l>that pride muſt haue a fall.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Aſſignes of Thomas Symcocke<g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
